@@ -1,0 +1,92 @@
+[
+    {
+        "id": 3,
+        "from": "son",
+        "to": "goku",
+        "subject": "kame",
+        "body": "waaaaaa",
+        "read": false,
+        "sendAt": "October 14, 1979"
+    },
+    {
+        "id": 4,
+        "from": "eagle",
+        "to": "buffalo",
+        "subject": "hunt",
+        "body": "too bad",
+        "read": false,
+        "sendAt": "Tue Jul 13 2021"
+    },
+    {
+        "id": 5,
+        "from": "grd schtroumpf",
+        "to": "schtroumpfette",
+        "subject": "change",
+        "body": "I think I got bigger. Come measure me !",
+        "read": false,
+        "sendAt": "Tue Jul 13 2021"
+    },
+    {
+        "id": 6,
+        "from": "batman",
+        "to": "robin",
+        "subject": "lost and found",
+        "body": "You left your spandex in my drawer.",
+        "read": false,
+        "sendAt": "Tue Jul 13 2021"
+    },
+    {
+        "id": 12,
+        "from": "doll",
+        "to": "action figure",
+        "subject": "return",
+        "body": "to your box",
+        "read": false,
+        "sendAt": "Tue Jul 13 2021"
+    },
+    {
+        "id": 13,
+        "from": "beaver",
+        "to": "beaver",
+        "subject": "looking",
+        "body": "for woody romance",
+        "read": false,
+        "sendAt": "Tue Jul 13 2021"
+    },
+    {
+        "id": 21,
+        "from": "captain",
+        "to": "america",
+        "subject": "wants his",
+        "body": "shield back",
+        "read": false,
+        "sendAt": "Tue Jul 13 2021"
+    },
+    {
+        "id": 22,
+        "from": "winter soldier",
+        "to": "rocket",
+        "subject": "not funny anymore",
+        "body": "Gimme my arm back.",
+        "read": false,
+        "sendAt": "Tue Jul 13 2021"
+    },
+    {
+        "id": 23,
+        "from": "tintin",
+        "to": "haddock",
+        "subject": "Bachi-bouzouk",
+        "body": "anacoluthe",
+        "read": false,
+        "sendAt": "Tue Jul 13 2021"
+    },
+    {
+        "from": "booggl",
+        "to": "bouggle",
+        "subject": "round",
+        "body": "oval",
+        "read": false,
+        "sendAt": "Mon Jun 18 2026",
+        "id": 24
+    }
+]
